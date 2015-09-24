@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LibraryAPI:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="libraynotifier.war">
+      <element id="artifact" artifact-name="LibraryAPI:war exploded" />
+    </root>
+  </artifact>
+</component>
